@@ -1,0 +1,16 @@
+{
+  "name": "backend-series",
+  "version": "1.0.0",
+  "description": "a backend course - followed by SuperSection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "supersection"
+  ],
+  "author": "Soumo Sarkar",
+  "license": "ISC"
+}
